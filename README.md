@@ -1,16 +1,12 @@
-### Hi there 👋
+## Автор Работ
+***
+Меня зовут **Роман** я занимаюсь разработкой с 2021 года.
+В 2022 году поступил в ДГУ,на курс ИВТ.
 
-<!--
-**Saaayurii/Saaayurii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Изучаю С++, С#, HTML, CSS, Note js, PHP, Python.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### __Контакты__
+[VK](https://vk.com/relmontov)
+[Instagram](https://www.instagram.com/p/Cc0yk2KNntR_ka35FH--mGbXx-sRMoNZ87gexg0/?igshid=YmMyMTA2M2Y=)
+[Telegram](https://t.me/Relmontov)
+[Gmail](relmontovro@gmail.com)
