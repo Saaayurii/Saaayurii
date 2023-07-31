@@ -4,7 +4,7 @@
 
 В 2022 году поступил в ДГУ,на курс ИВТ.
 
-Изучаю С++, С#, HTML, CSS, Note js, PHP, Python.
+Изучаю С++, С#, JS, Python.
 
 ### __Контакты__
 [VK](https://vk.com/relmontov)
