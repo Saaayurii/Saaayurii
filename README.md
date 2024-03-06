@@ -57,11 +57,6 @@ In 2022, I enrolled at DGU, majoring in IT.
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    <a href="https://vk.com/relmontov">
-    <img src="https://img.shields.io/badge/VK-pink?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
-
-[VK](https://vk.com/relmontov)
-[Instagram](https://www.instagram.com/p/Cc0yk2KNntR_ka35FH--mGbXx-sRMoNZ87gexg0/?igshid=YmMyMTA2M2Y=)
-[Telegram](https://t.me/Relmontov)
-[Gmail](relmontovro@gmail.com)
