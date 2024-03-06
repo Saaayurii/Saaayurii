@@ -10,7 +10,7 @@ Hi there! 👋 I'm a frontend developer with experience in various technologies 
 
 📫 If you have any questions or collaboration opportunities, feel free to reach out to me!
 
-My name is Roman, and I've been involved in development since 2021.
+My name is **Roman**, and I've been involved in development since 2021.
 
 In 2022, I enrolled at DGU, majoring in IT.
 
