@@ -16,7 +16,7 @@ In 2022, I enrolled at DGU, majoring in IT.
 
 ### :fire: My Stats :
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saaayurii)](https://github.com/anuraghazra/github-readme-stats)
 
 ### __Languages ​​and tools__
 ***
