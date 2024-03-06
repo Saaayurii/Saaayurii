@@ -1,4 +1,4 @@
-🎨## Author of Works
+### 🎨 Author of Works
 ***
 Hi there! 👋 I'm a frontend developer with experience in various technologies such as HTML, CSS, and JavaScript. I also have experience with C++, C#, and Python, as well as skills in Assembly language development.
 
@@ -18,7 +18,7 @@ In 2022, I enrolled at DGU, majoring in IT.
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saaayurii&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-🌟### __Languages ​​and tools__
+### 🌟 __Languages ​​and tools__
 ***
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -48,7 +48,7 @@ In 2022, I enrolled at DGU, majoring in IT.
 </div>
 
 
-🔍### __Contacts__
+### 🔍 __Contacts__
 ***
 <div id="badges">
   <a href="https://t.me/Relmontov">
