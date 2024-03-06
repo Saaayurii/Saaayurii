@@ -1,4 +1,4 @@
-## Автор Работ
+## Author of Works
 ***
 Hi there! 👋 I'm a frontend developer with experience in various technologies such as HTML, CSS, and JavaScript. I also have experience with C++, C#, and Python, as well as skills in Assembly language development.
 
