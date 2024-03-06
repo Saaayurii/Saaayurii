@@ -15,7 +15,7 @@ My name is **Roman**, and I've been involved in development since 2021.
 In 2022, I enrolled at DGU, majoring in IT.
 
 
-### __Контакты__
+### __Contacts__
 [VK](https://vk.com/relmontov)
 [Instagram](https://www.instagram.com/p/Cc0yk2KNntR_ka35FH--mGbXx-sRMoNZ87gexg0/?igshid=YmMyMTA2M2Y=)
 [Telegram](https://t.me/Relmontov)
