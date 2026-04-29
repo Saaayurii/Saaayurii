@@ -1,66 +1,116 @@
-### 🎨 Author of Works
+# 👋 Hi, I'm Roman
+
+## 🎨 Author of Works
 ***
-Hi there! 👋 I'm a frontend developer with experience in various technologies such as HTML, CSS, and JavaScript. I also have experience with C++, C#, and Python, as well as skills in Assembly language development.
+I'm a frontend developer with experience in technologies such as HTML, CSS, and JavaScript. I also have a background in C++, C#, and Python, along with low-level development experience using Assembly.
 
-🚀 In my projects, I strive to create innovative and high-quality user interfaces that not only look good but also perform efficiently.
+🚀 In my projects, I focus on building modern, high-performance, and scalable user interfaces that combine clean design with strong functionality.
 
-💡 My experience in various programming areas allows me to apply diverse approaches to problem-solving and find effective solutions.
+💡 My multidisciplinary background allows me to approach problems from different angles and deliver efficient and well-thought-out solutions.
 
-🌱 Currently, I'm deeply diving into modern frameworks and libraries like React, Angular, and Next.js to expand my skills and stay up-to-date with the latest trends in web development.
+🌱 Currently, I am deeply focused on mastering modern frameworks and ecosystems such as React, Angular, and Next.js, while also improving my backend and system design skills.
 
-📫 If you have any questions or collaboration opportunities, feel free to reach out to me!
+🏢 Since 2025, I have been working at the Institute of Artificial Intelligence Problems, where I am involved in research and development of intelligent systems and modern software solutions.
 
-My name is **Roman**, and I've been involved in development since 2021.
+📫 Open to collaboration, freelance, and interesting projects — feel free to reach out.
 
-In 2022, I enrolled at DGU, majoring in IT.
+---
 
-### :fire: My Stats :
-***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saaayurii&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 🔥 Experience
+- 💻 Frontend Developer since 2021
+- 🎓 IT student at DGU (since 2022)
+- 🧠 Research & Development at Institute of Artificial Intelligence Problems (since 2025)
 
-### 🌟 __Languages ​​and tools__
-***
+---
+
+## 🛠️ Languages and Tools
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" title="insomnia" alt="insomnia" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/v8/v8-original.svg" title="v8" alt="v8" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vitejs" alt="vitejs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="nestjs" alt="nestjs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="typescript" alt="typescript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40"/>
 </div>
 
+---
 
-### 🔍 __Contacts__
-***
-<div id="badges">
+## 📊 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saaayurii&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📬 Contacts
+<div>
   <a href="https://t.me/Relmontov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="relmontovro@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="mailto:relmontovro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/p/Cc0yk2KNntR_ka35FH--mGbXx-sRMoNZ87gexg0/?igshid=YmMyMTA2M2Y=">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://vk.com/relmontov">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white"/>
   </a>
-   <a href="https://vk.com/relmontov">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+</div>
+
+---
+
+# 👋 Привет, я Роман
+
+## 🎨 Автор работ
+***
+Я frontend-разработчик с опытом работы с HTML, CSS и JavaScript. Также у меня есть опыт работы с C++, C# и Python, а также навыки низкоуровневой разработки на ассемблере.
+
+🚀 В своих проектах я создаю современные, быстрые и масштабируемые пользовательские интерфейсы, сочетая удобство, производительность и чистую архитектуру.
+
+💡 Благодаря опыту в разных областях программирования я умею смотреть на задачи шире и находить эффективные решения.
+
+🌱 Сейчас активно развиваюсь в современных технологиях: React, Angular, Next.js, а также углубляю знания в backend и системном дизайне.
+
+🏢 С 2025 года работаю в Институте проблем искусственного интеллекта, где занимаюсь разработкой и исследованием интеллектуальных систем.
+
+📫 Открыт к сотрудничеству, проектам и интересным предложениям.
+
+---
+
+## 🔥 Опыт
+- 💻 Frontend-разработчик с 2021 года  
+- 🎓 Студент ДГУ (IT, с 2022 года)  
+- 🧠 Разработчик / исследователь в Институте проблем искусственного интеллекта (с 2025 года)
+
+---
+
+## 🛠️ Технологии
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40"/>
+</div>
+
+---
+
+## 📬 Контакты
+<div>
+  <a href="https://t.me/Relmontov">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:relmontovro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://vk.com/relmontov">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white"/>
   </a>
 </div>
