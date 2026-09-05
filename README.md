@@ -10,7 +10,7 @@ I'm a frontend developer with experience in technologies such as HTML, CSS, and 
 
 🌱 Currently, I am deeply focused on mastering modern frameworks and ecosystems such as React, Angular, and Next.js, while also improving my backend and system design skills.
 
-🏢 Since 2025, I have been working at the Institute of Artificial Intelligence Problems, where I am involved in research and development of intelligent systems and modern software solutions.
+🏢 Since 2026, I have been working at the Institute of Artificial Intelligence Problems, where I am involved in research and development of intelligent systems and modern software solutions.
 
 📫 Open to collaboration, freelance, and interesting projects — feel free to reach out.
 
